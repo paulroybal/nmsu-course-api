@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ET483",
+    "courseCode": "E T 483",
+    "title": "Mobile App Programming",
+    "credits": 3,
+    "instructor": "Saleem Masadeh",
+    "prerequisite": null,
+    "tags": ["Android", "Kotlin", "Compose"],
+    "badgeUrl": "https://cdn-shop.adafruit.com/970x728/551-01.jpg",
+    "description": "This course introduces students to modern Android application development using Kotlin and Jetpack Compose. Topics include user interface design, state management, navigation, REST APIs, local data storage, and application testing."
+  },
+  {
+    "id": "ET551",
+    "courseCode": "E T 551",
+    "title": "Enterprise Architecture I",
+    "credits": 3,
+    "instructor": "Instructor",
+    "prerequisite": "E T 450",
+    "tags": ["Architecture", "Business", "IT"],
+    "badgeUrl": "https://cloud7works.com/wp-content/uploads/2024/10/EA-Architecture-Assessment-scaled-1.png",
+    "description": "Introduction to enterprise architecture, business capabilities, IT alignment, and architecture frameworks."
+  },
+  {
+    "id": "ET539",
+    "courseCode": "E T 539",
+    "title": "Advanced Enterprise Security",
+    "credits": 3,
+    "instructor": "Mark Lawrence",
+    "prerequisite": "E T 438",
+    "tags": ["Security", "Risk", "Cybersecurity"],
+    "badgeUrl": "https://placehold.co/300x300/882345/FFFFFF/png?text=ET+539",
+    "description": "Advanced concepts in information security, including risk management, network security, cryptography, and security governance."
+  },
+  {
+    "id": "CS472",
+    "courseCode": "CS 472",
+    "title": "Software Engineering",
+    "credits": 3,
+    "instructor": "Instructor",
+    "prerequisite": "CS 371",
+    "tags": ["Software", "UML", "Design"],
+    "badgeUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi9Sv6bgYtcaMIIGllQYHJdQ3Vl32waNM43OnnLaWEEQ&s=10",
+    "description": "Software development methodologies, UML modeling, requirements analysis, design, and testing."
+  }
+]
