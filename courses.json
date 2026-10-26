@@ -30,7 +30,7 @@
     "prerequisite": "E T 438",
     "tags": ["Security", "Risk", "Cybersecurity"],
     "badgeUrl": "https://placehold.co/300x300/882345/FFFFFF/png?text=ET+539",
-    "description": "Advanced concepts in information security, including risk management, network security, cryptography, and security governance."
+    "description": "This course provides the student with an overview of enterprise cybersecurity and a foundation for understanding the critical issues of protecting digital and information assets. Topics include the main principles guiding the information security posture needed for personal or organizational data and technology assets, namely Confidentiality, Availability, and Integrity, often referred to as the CIA triangle. Additionally, coverage will include auditing, inspection, prevention, detection, and response to cybersecurity threats, an overview of cybersecurity governance, and typical cybersecurity roles."
   },
   {
     "id": "CS472",
